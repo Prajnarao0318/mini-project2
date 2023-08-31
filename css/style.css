@@ -1,0 +1,205 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.jh1{
+    font-family: 'Kablammo', cursive;
+    text-align: center;
+    font-size: 100px;
+}
+.jh1:hover{
+    font-size: 150px;
+    text-decoration: underline;
+}
+.image-hr {
+    height: 10px;
+    width: 100wv;
+    background-color: #646669aa;
+}
+.card .card-body .card-title:hover{
+    font-size: 25px;
+}
+section{
+    padding: 60px 0;;
+    overflow: hidden;
+}
+
+.sec{
+    width: 100%;
+    height: 100vh;
+}
+
+.btn{
+    text-decoration: aqua;
+}
+/* .dwel{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: rgb(18, 9, 89);
+    background-color: #dbedffaa;
+    background: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),url("../Images/fruits.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+} */
+.sect1{
+    /* justify-content: baseline;
+    display: flex;
+    align-items: center; */
+    border: #0f0303;
+    background-color: #ff810caa; 
+    background-image: url("../Images/orange.png");
+    background-repeat: no-repeat;
+    background-position:right; 
+}
+.sect2{
+    /* justify-content: baseline;
+    display: flex;
+    align-items: center; */
+    background-color: #d1b01077; 
+    background-image: url("../Images/apple.png");
+    background-repeat: no-repeat;
+    background-position:right; 
+
+}
+.sect3{
+    /* justify-content: baseline;
+    display: flex;
+    align-items: center; */
+    background-color: #fcf01caa; 
+    background-image: url("../Images/pineapple.png");
+    background-repeat: no-repeat;
+    background-position:right; 
+
+}
+.sect4{
+    /* justify-content: baseline;
+    display: flex;
+    align-items: center; */
+    background-color: #690000aa; 
+    background-image: url("../Images/grape.png");
+    background-repeat: no-repeat;
+    background-position:right; 
+
+}
+.sect5{
+    /* justify-content: baseline;
+    display: flex;
+    align-items: center; */
+    background-color: #d10000aa; 
+    background-image: url("../Images/craneberry.png");
+    background-repeat: no-repeat;
+    background-position:right; 
+
+}
+.sect6{
+    /* justify-content: baseline;
+    display: flex;
+    align-items: center; */
+    background-color: #a01b1baa; 
+    background-image: url("../Images/Pomegranate.png");
+    background-repeat: no-repeat;
+    background-position:right; 
+
+}
+.sect7{
+    /* justify-content: baseline;
+    display: flex;
+    align-items: center; */
+    background-color: #f33131aa; 
+    background-image: url("../Images/Watermelon.png");
+    background-repeat: no-repeat;
+    background-position:right; 
+
+}
+.sect8{
+    /* justify-content: baseline;
+    display: flex;
+    align-items: center; */
+    background-color: #ffdaa5aa; 
+    background-image: url("../Images/Lemonade.png");
+    background-repeat: no-repeat;
+    background-position:right; 
+
+}
+.sect9{
+    /* justify-content: baseline;
+    display: flex;
+    align-items: center; */
+    background-color: #ff9900aa; 
+    background-image: url("../Images/Mango-.png");
+    background-repeat: no-repeat;
+    background-position:right; 
+
+}
+.sect10{
+    /* justify-content: baseline;
+    display: flex;
+    align-items: center; */
+    background-color: #79ff48aa; 
+    background-image: url("../Images/Kiwi.png");
+    background-repeat: no-repeat;
+    background-position:right; 
+
+}
+.h2{
+    font-family: 'Kablammo', cursive;
+    font:bolder;
+    padding: 10px;
+}
+p{
+    font-family: 'Borel', cursive;
+    color: #4b2a2a;
+}
+p:hover{
+    font-size: x-large;
+}
+h5{
+    font-family: 'Borel', cursive;
+}
+h2:hover{
+    font-size: 40px;
+    text-decoration: underline;
+}
+.w-100{
+    height: 80vh;
+}
+.h5:hover{
+    font-size: larger;
+}
+.footer{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 100wv;
+    height: 50px;
+    background-color: #0950bbaa;
+}
+.navbar-brand{
+    font-size:35px;
+}
+.cont{
+    display:flex;
+    padding:50px; 
+    
+}
+.carousel{
+   margin: 20px;
+}
+.carousel-inner{
+   
+    border-radius: 50px;
+  
+}
+.card{
+    padding:10px;
+    width: 25rem;
+}
+
+.card-body{
+    text-align: center;
+}
+.card-img-top{
+    width: 10%;
+    height: 150PX;
+}    
